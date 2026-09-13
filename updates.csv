@@ -2402,7 +2402,7 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
-2026-09-13;(Germany) Brandenburg;B189 (Stendal);deubb.b189;Route relocated at south end onto future A14 alignment between B195 and border to Saxony-Anhalt (old Elbe bridge closed due to reconstruction)
+2026-09-13;(Germany) Brandenburg;B189;deubb.b189;Route relocated at south end onto future A14 alignment between B195 and border to Saxony-Anhalt (old Elbe bridge closed due to reconstruction)
 2026-08-23;(Germany) Brandenburg;B97 (Cottbus);deubb.b097;Route relocated from old alignment to A15's exit 6 (L48 now), and onto new alignment to new A15 exit 5b
 2026-08-23;(Germany) Brandenburg;B168;deubb.b168;Route truncated at south end from junction with old B97 to junction with new B97
 2026-08-23;(Germany) Brandenburg;L48;deubb.l048;Route extended at north end from A15 to L49
